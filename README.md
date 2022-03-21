@@ -1,6 +1,6 @@
 # Opening Hours React Component Challenge
 
-### Running and testings
+### Running and testing
 - Run the app by running ```npm run```
 - Test the app by running ```npm test```
 
