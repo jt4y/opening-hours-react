@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opening-hours-react/static/css/main.65a8a1be.css",
+    "main.js": "/opening-hours-react/static/js/main.e93ccf58.js",
+    "static/js/787.04f64fa3.chunk.js": "/opening-hours-react/static/js/787.04f64fa3.chunk.js",
+    "index.html": "/opening-hours-react/index.html",
+    "main.65a8a1be.css.map": "/opening-hours-react/static/css/main.65a8a1be.css.map",
+    "main.e93ccf58.js.map": "/opening-hours-react/static/js/main.e93ccf58.js.map",
+    "787.04f64fa3.chunk.js.map": "/opening-hours-react/static/js/787.04f64fa3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65a8a1be.css",
+    "static/js/main.e93ccf58.js"
+  ]
+}
