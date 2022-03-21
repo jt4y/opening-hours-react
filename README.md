@@ -40,3 +40,4 @@ The implentation is below
 - Write some more unit tests to mock getting times and to test form submission
 - A little more form validation on client and validation in node (Lambda)
 - Some more work around error messaging, for example handling multiple error messages and highlighting the specific error inputs.
+- It does not currently use WebSockets or Poll for updates to the opening times
