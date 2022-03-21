@@ -1,0 +1,49 @@
+.opening-hours {
+    display:flex;
+    flex-direction: column;
+    border-width:1px 1px 3px 1px;
+    border-color:#e0e0e0;
+    border-radius:5px;
+    border-style:solid;
+    padding:1rem;
+    justify-content: center;
+    &__day {
+        border:1px solid #e0e0e0;
+        margin-bottom:1rem;
+        border-radius:0.2rem;
+        padding:1rem;
+        display:flex;
+        justify-content: space-between;
+
+        &__checkbox {
+            display:flex;
+            align-items:center;
+        }
+        &__times {
+            display:flex;
+            align-self: flex-end;
+            visibility: hidden;
+
+            >:first-child {
+                margin-right:1rem;
+            }
+        }
+    }
+    &__save {
+        margin-top:1rem;
+        display:flex;
+        justify-content: flex-end;
+    }
+    h4 {
+        padding:0.1rem;
+        margin:0;
+        margin-bottom:1rem;
+        text-align: center;
+    }
+}
+.loading {
+    text-align:center;
+}
+.show {
+    visibility:visible;
+}
