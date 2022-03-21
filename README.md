@@ -1,5 +1,7 @@
 # Opening Hours React Component Challenge
 
+GitHub Pages live demo link: https://jt4y.github.io/opening-hours-react/
+
 ### Running and testing
 - Run the app by running ```npm run```
 - Test the app by running ```npm test```
